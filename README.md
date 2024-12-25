@@ -116,4 +116,4 @@ Run the `scraper.py` script to scrape detailed information for each vessel URL i
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
